@@ -3,4 +3,5 @@
 
 # Imprime "Hola Mundo" en la consola.
 echo "Hola Mundo"
-echo "Mi nombre es: Sigfrido"
+nombre="Sigfrido Encinas"
+echo "Mi nombre es: $nombre"
